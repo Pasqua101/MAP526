@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="UserProfile.MainPage"
+             xmlns:ios="clr-namespace:Xamarin.Forms.PlatformConfiguration.iOSSpecific;assembly=Xamarin.Forms.Core"
+             ios:Page.UseSafeArea="true">
+
+    <StackLayout>
+        <Label Text="Please create an account" FontSize="Large"/>
+
+        <Entry x:Name="nameEntry" Placeholder="Please enter a name"/>
+        <Entry x:Name="emailEntry" Placeholder="Please enter your email"/>
+        <Entry x:Name="pfpEntry" Placeholder="Please provide a link for your profile picture"/>
+        <Button x:Name="submitButton" Text="Submit" Clicked="submitButton_Clicked"/>
+
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marco\\Desktop\\midterm practice\\UserProfile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{602BA5AE-68CF-4EB4-AF17-6D529A80B55B}|UserProfile\\UserProfile.csproj|c:\\users\\marco\\desktop\\midterm practice\\userprofile\\userprofile\\userprofilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{602BA5AE-68CF-4EB4-AF17-6D529A80B55B}|UserProfile\\UserProfile.csproj|solutionrelative:userprofile\\userprofilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{602BA5AE-68CF-4EB4-AF17-6D529A80B55B}|UserProfile\\UserProfile.csproj|c:\\users\\marco\\desktop\\midterm practice\\userprofile\\userprofile\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{602BA5AE-68CF-4EB4-AF17-6D529A80B55B}|UserProfile\\UserProfile.csproj|solutionrelative:userprofile\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{602BA5AE-68CF-4EB4-AF17-6D529A80B55B}|UserProfile\\UserProfile.csproj|c:\\users\\marco\\desktop\\midterm practice\\userprofile\\userprofile\\userprofilepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{602BA5AE-68CF-4EB4-AF17-6D529A80B55B}|UserProfile\\UserProfile.csproj|solutionrelative:userprofile\\userprofilepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{602BA5AE-68CF-4EB4-AF17-6D529A80B55B}|UserProfile\\UserProfile.csproj|c:\\users\\marco\\desktop\\midterm practice\\userprofile\\userprofile\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{602BA5AE-68CF-4EB4-AF17-6D529A80B55B}|UserProfile\\UserProfile.csproj|solutionrelative:userprofile\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{602BA5AE-68CF-4EB4-AF17-6D529A80B55B}|UserProfile\\UserProfile.csproj|c:\\users\\marco\\desktop\\midterm practice\\userprofile\\userprofile\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{602BA5AE-68CF-4EB4-AF17-6D529A80B55B}|UserProfile\\UserProfile.csproj|solutionrelative:userprofile\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{602BA5AE-68CF-4EB4-AF17-6D529A80B55B}|UserProfile\\UserProfile.csproj|c:\\users\\marco\\desktop\\midterm practice\\userprofile\\userprofile\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{602BA5AE-68CF-4EB4-AF17-6D529A80B55B}|UserProfile\\UserProfile.csproj|solutionrelative:userprofile\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserProfilePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\midterm practice\\UserProfile\\UserProfile\\UserProfilePage.xaml.cs",
+              "RelativeDocumentMoniker": "UserProfile\\UserProfilePage.xaml.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\midterm practice\\UserProfile\\UserProfile\\UserProfilePage.xaml.cs",
+              "RelativeToolTip": "UserProfile\\UserProfilePage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T23:57:32.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\midterm practice\\UserProfile\\UserProfile\\App.xaml.cs",
+              "RelativeDocumentMoniker": "UserProfile\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\midterm practice\\UserProfile\\UserProfile\\App.xaml.cs",
+              "RelativeToolTip": "UserProfile\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T23:57:12.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserProfilePage.xaml",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\midterm practice\\UserProfile\\UserProfile\\UserProfilePage.xaml",
+              "RelativeDocumentMoniker": "UserProfile\\UserProfilePage.xaml",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\midterm practice\\UserProfile\\UserProfile\\UserProfilePage.xaml",
+              "RelativeToolTip": "UserProfile\\UserProfilePage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-17T23:54:05.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\midterm practice\\UserProfile\\UserProfile\\UserModel.cs",
+              "RelativeDocumentMoniker": "UserProfile\\UserModel.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\midterm practice\\UserProfile\\UserProfile\\UserModel.cs",
+              "RelativeToolTip": "UserProfile\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T23:48:07.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\midterm practice\\UserProfile\\UserProfile\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "UserProfile\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\midterm practice\\UserProfile\\UserProfile\\MainPage.xaml.cs",
+              "RelativeToolTip": "UserProfile\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T23:44:45.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\midterm practice\\UserProfile\\UserProfile\\MainPage.xaml",
+              "RelativeDocumentMoniker": "UserProfile\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\midterm practice\\UserProfile\\UserProfile\\MainPage.xaml",
+              "RelativeToolTip": "UserProfile\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-17T23:38:13.009Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+C:\Users\marco\Desktop\midterm practice\UserProfile\UserProfile\bin\Debug\netstandard2.0\UserProfile.deps.json
+C:\Users\marco\Desktop\midterm practice\UserProfile\UserProfile\bin\Debug\netstandard2.0\UserProfile.dll
+C:\Users\marco\Desktop\midterm practice\UserProfile\UserProfile\bin\Debug\netstandard2.0\ref\UserProfile.dll
+C:\Users\marco\Desktop\midterm practice\UserProfile\UserProfile\bin\Debug\netstandard2.0\UserProfile.pdb
+C:\Users\marco\Desktop\midterm practice\UserProfile\UserProfile\obj\Debug\netstandard2.0\UserProfile.csproj.AssemblyReference.cache
+C:\Users\marco\Desktop\midterm practice\UserProfile\UserProfile\obj\Debug\netstandard2.0\UserProfile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Desktop\midterm practice\UserProfile\UserProfile\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\marco\Desktop\midterm practice\UserProfile\UserProfile\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\marco\Desktop\midterm practice\UserProfile\UserProfile\obj\Debug\netstandard2.0\UserProfile.AssemblyInfoInputs.cache
+C:\Users\marco\Desktop\midterm practice\UserProfile\UserProfile\obj\Debug\netstandard2.0\UserProfile.AssemblyInfo.cs
+C:\Users\marco\Desktop\midterm practice\UserProfile\UserProfile\obj\Debug\netstandard2.0\UserProfile.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\midterm practice\UserProfile\UserProfile\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\marco\Desktop\midterm practice\UserProfile\UserProfile\obj\Debug\netstandard2.0\UserProfile.dll
+C:\Users\marco\Desktop\midterm practice\UserProfile\UserProfile\obj\Debug\netstandard2.0\refint\UserProfile.dll
+C:\Users\marco\Desktop\midterm practice\UserProfile\UserProfile\obj\Debug\netstandard2.0\UserProfile.pdb
+C:\Users\marco\Desktop\midterm practice\UserProfile\UserProfile\obj\Debug\netstandard2.0\UserProfilePage.xaml.g.cs
