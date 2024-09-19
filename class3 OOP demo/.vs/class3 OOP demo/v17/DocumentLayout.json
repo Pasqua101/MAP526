@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\class3 OOP demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{966229E0-D524-428E-AABF-DA06D5FA450F}|class3 OOP demo.csproj|c:\\users\\marco\\desktop\\college\\year 3\\semester 3 (summer)\\map526\\class3 oop demo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{966229E0-D524-428E-AABF-DA06D5FA450F}|class3 OOP demo.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966229E0-D524-428E-AABF-DA06D5FA450F}|class3 OOP demo.csproj|c:\\users\\marco\\desktop\\college\\year 3\\semester 3 (summer)\\map526\\class3 oop demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{966229E0-D524-428E-AABF-DA06D5FA450F}|class3 OOP demo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\class3 OOP demo\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\class3 OOP demo\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAFUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:10:10.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\class3 OOP demo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\class3 OOP demo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T17:42:22.124Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

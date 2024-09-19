@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\ListView\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9C4FD6-B497-4A28-A63B-8B155A1F71F1}|ListView\\ListView.csproj|c:\\users\\marco\\desktop\\college\\year 3\\semester 3 (summer)\\map526\\listview\\listview\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9C4FD6-B497-4A28-A63B-8B155A1F71F1}|ListView\\ListView.csproj|solutionrelative:listview\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9C4FD6-B497-4A28-A63B-8B155A1F71F1}|ListView\\ListView.csproj|c:\\users\\marco\\desktop\\college\\year 3\\semester 3 (summer)\\map526\\listview\\listview\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{FE9C4FD6-B497-4A28-A63B-8B155A1F71F1}|ListView\\ListView.csproj|solutionrelative:listview\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\ListView\\ListView\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "ListView\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\ListView\\ListView\\MainPage.xaml.cs",
+              "RelativeToolTip": "ListView\\MainPage.xaml.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAADsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T18:10:40.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\ListView\\ListView\\MainPage.xaml",
+              "RelativeDocumentMoniker": "ListView\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\ListView\\ListView\\MainPage.xaml",
+              "RelativeToolTip": "ListView\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-21T18:10:37.77Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

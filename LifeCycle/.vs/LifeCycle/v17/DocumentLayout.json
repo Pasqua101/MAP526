@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\LifeCycle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{180FD77F-C101-427C-BF95-03285529D165}|LifeCycle\\LifeCycle.csproj|c:\\users\\marco\\desktop\\college\\year 3\\semester 3 (summer)\\map526\\lifecycle\\lifecycle\\secondscreen.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{180FD77F-C101-427C-BF95-03285529D165}|LifeCycle\\LifeCycle.csproj|solutionrelative:lifecycle\\secondscreen.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180FD77F-C101-427C-BF95-03285529D165}|LifeCycle\\LifeCycle.csproj|c:\\users\\marco\\desktop\\college\\year 3\\semester 3 (summer)\\map526\\lifecycle\\lifecycle\\secondscreen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180FD77F-C101-427C-BF95-03285529D165}|LifeCycle\\LifeCycle.csproj|solutionrelative:lifecycle\\secondscreen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180FD77F-C101-427C-BF95-03285529D165}|LifeCycle\\LifeCycle.csproj|c:\\users\\marco\\desktop\\college\\year 3\\semester 3 (summer)\\map526\\lifecycle\\lifecycle\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180FD77F-C101-427C-BF95-03285529D165}|LifeCycle\\LifeCycle.csproj|solutionrelative:lifecycle\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180FD77F-C101-427C-BF95-03285529D165}|LifeCycle\\LifeCycle.csproj|c:\\users\\marco\\desktop\\college\\year 3\\semester 3 (summer)\\map526\\lifecycle\\lifecycle\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{180FD77F-C101-427C-BF95-03285529D165}|LifeCycle\\LifeCycle.csproj|solutionrelative:lifecycle\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180FD77F-C101-427C-BF95-03285529D165}|LifeCycle\\LifeCycle.csproj|c:\\users\\marco\\desktop\\college\\year 3\\semester 3 (summer)\\map526\\lifecycle\\lifecycle\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180FD77F-C101-427C-BF95-03285529D165}|LifeCycle\\LifeCycle.csproj|solutionrelative:lifecycle\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SecondScreen.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\LifeCycle\\LifeCycle\\SecondScreen.xaml.cs",
+              "RelativeDocumentMoniker": "LifeCycle\\SecondScreen.xaml.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\LifeCycle\\LifeCycle\\SecondScreen.xaml.cs",
+              "RelativeToolTip": "LifeCycle\\SecondScreen.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAEwCEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:17:28.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SecondScreen.xaml",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\LifeCycle\\LifeCycle\\SecondScreen.xaml",
+              "RelativeDocumentMoniker": "LifeCycle\\SecondScreen.xaml",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\LifeCycle\\LifeCycle\\SecondScreen.xaml",
+              "RelativeToolTip": "LifeCycle\\SecondScreen.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T18:17:05.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\LifeCycle\\LifeCycle\\App.xaml.cs",
+              "RelativeDocumentMoniker": "LifeCycle\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\LifeCycle\\LifeCycle\\App.xaml.cs",
+              "RelativeToolTip": "LifeCycle\\App.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:02:45.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\LifeCycle\\LifeCycle\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "LifeCycle\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\LifeCycle\\LifeCycle\\MainPage.xaml.cs",
+              "RelativeToolTip": "LifeCycle\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:02:38.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\LifeCycle\\LifeCycle\\MainPage.xaml",
+              "RelativeDocumentMoniker": "LifeCycle\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\LifeCycle\\LifeCycle\\MainPage.xaml",
+              "RelativeToolTip": "LifeCycle\\MainPage.xaml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAEwBUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T18:02:37.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

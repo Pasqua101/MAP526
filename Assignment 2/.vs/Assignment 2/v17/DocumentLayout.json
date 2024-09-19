@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\Assignment 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C75E9ED0-F919-4BB7-813D-1263B33BA413}|Assignment 2\\Assignment 2.csproj|c:\\users\\marco\\desktop\\college\\year 3\\semester 3 (summer)\\map526\\assignment 2\\assignment 2\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C75E9ED0-F919-4BB7-813D-1263B33BA413}|Assignment 2\\Assignment 2.csproj|solutionrelative:assignment 2\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C75E9ED0-F919-4BB7-813D-1263B33BA413}|Assignment 2\\Assignment 2.csproj|c:\\users\\marco\\desktop\\college\\year 3\\semester 3 (summer)\\map526\\assignment 2\\assignment 2\\bookslistscreen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C75E9ED0-F919-4BB7-813D-1263B33BA413}|Assignment 2\\Assignment 2.csproj|solutionrelative:assignment 2\\bookslistscreen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C75E9ED0-F919-4BB7-813D-1263B33BA413}|Assignment 2\\Assignment 2.csproj|c:\\users\\marco\\desktop\\college\\year 3\\semester 3 (summer)\\map526\\assignment 2\\assignment 2\\bookslistscreen.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{C75E9ED0-F919-4BB7-813D-1263B33BA413}|Assignment 2\\Assignment 2.csproj|solutionrelative:assignment 2\\bookslistscreen.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C75E9ED0-F919-4BB7-813D-1263B33BA413}|Assignment 2\\Assignment 2.csproj|c:\\users\\marco\\desktop\\college\\year 3\\semester 3 (summer)\\map526\\assignment 2\\assignment 2\\mydatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C75E9ED0-F919-4BB7-813D-1263B33BA413}|Assignment 2\\Assignment 2.csproj|solutionrelative:assignment 2\\mydatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C75E9ED0-F919-4BB7-813D-1263B33BA413}|Assignment 2\\Assignment 2.csproj|c:\\users\\marco\\desktop\\college\\year 3\\semester 3 (summer)\\map526\\assignment 2\\assignment 2\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C75E9ED0-F919-4BB7-813D-1263B33BA413}|Assignment 2\\Assignment 2.csproj|solutionrelative:assignment 2\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C75E9ED0-F919-4BB7-813D-1263B33BA413}|Assignment 2\\Assignment 2.csproj|c:\\users\\marco\\desktop\\college\\year 3\\semester 3 (summer)\\map526\\assignment 2\\assignment 2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C75E9ED0-F919-4BB7-813D-1263B33BA413}|Assignment 2\\Assignment 2.csproj|solutionrelative:assignment 2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C75E9ED0-F919-4BB7-813D-1263B33BA413}|Assignment 2\\Assignment 2.csproj|c:\\users\\marco\\desktop\\college\\year 3\\semester 3 (summer)\\map526\\assignment 2\\assignment 2\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{C75E9ED0-F919-4BB7-813D-1263B33BA413}|Assignment 2\\Assignment 2.csproj|solutionrelative:assignment 2\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C75E9ED0-F919-4BB7-813D-1263B33BA413}|Assignment 2\\Assignment 2.csproj|c:\\users\\marco\\desktop\\college\\year 3\\semester 3 (summer)\\map526\\assignment 2\\assignment 2\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C75E9ED0-F919-4BB7-813D-1263B33BA413}|Assignment 2\\Assignment 2.csproj|solutionrelative:assignment 2\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\Assignment 2\\Assignment 2\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Assignment 2\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\Assignment 2\\Assignment 2\\MainPage.xaml.cs",
+              "RelativeToolTip": "Assignment 2\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:45:35.52Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\Assignment 2\\Assignment 2\\MyDatabase.cs",
+              "RelativeDocumentMoniker": "Assignment 2\\MyDatabase.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\Assignment 2\\Assignment 2\\MyDatabase.cs",
+              "RelativeToolTip": "Assignment 2\\MyDatabase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T15:22:43.826Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookModel.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\Assignment 2\\Assignment 2\\BookModel.cs",
+              "RelativeDocumentMoniker": "Assignment 2\\BookModel.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\Assignment 2\\Assignment 2\\BookModel.cs",
+              "RelativeToolTip": "Assignment 2\\BookModel.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T14:47:25.359Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BooksListScreen.xaml",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\Assignment 2\\Assignment 2\\BooksListScreen.xaml",
+              "RelativeDocumentMoniker": "Assignment 2\\BooksListScreen.xaml",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\Assignment 2\\Assignment 2\\BooksListScreen.xaml",
+              "RelativeToolTip": "Assignment 2\\BooksListScreen.xaml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-07T14:54:18.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\Assignment 2\\Assignment 2\\UserModel.cs",
+              "RelativeDocumentMoniker": "Assignment 2\\UserModel.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\Assignment 2\\Assignment 2\\UserModel.cs",
+              "RelativeToolTip": "Assignment 2\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:01:51.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksListScreen.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\Assignment 2\\Assignment 2\\BooksListScreen.xaml.cs",
+              "RelativeDocumentMoniker": "Assignment 2\\BooksListScreen.xaml.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\Assignment 2\\Assignment 2\\BooksListScreen.xaml.cs",
+              "RelativeToolTip": "Assignment 2\\BooksListScreen.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T15:00:34.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\Assignment 2\\Assignment 2\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Assignment 2\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\Assignment 2\\Assignment 2\\MainPage.xaml",
+              "RelativeToolTip": "Assignment 2\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-06T14:29:20.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\Assignment 2\\Assignment 2\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Assignment 2\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\Assignment 2\\Assignment 2\\App.xaml.cs",
+              "RelativeToolTip": "Assignment 2\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:27:31.779Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

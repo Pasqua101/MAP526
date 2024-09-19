@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "CGqdS9GPoS0Ir3Al+4UFBAhmHX90jdABlVQL6MzudFtcqp6qC/EP0s9UTUZdFj6wIkb0f+sS/Uurqi9NayOxHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\Lecture 4\\EventsApp\\EventsApp.iOS\\EventsApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marco\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\marco\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\marco\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

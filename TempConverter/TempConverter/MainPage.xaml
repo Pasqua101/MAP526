@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TempConverter.MainPage"
+             xmlns:ios="clr-namespace:Xamarin.Forms.PlatformConfiguration.iOSSpecific;assembly=Xamarin.Forms.Core"
+             ios:Page.UseSafeArea="true"
+             Title="Temperature Converter">
+
+    <StackLayout>
+        <Label Text="Please enter the temperature in Celsius" FontSize="Large"/>
+
+        <Entry x:Name="celsiusEntry"  Keyboard="Numeric"/>
+
+        <Button x:Name="convertButton" Clicked="convertButton_Clicked" Text="Convert to Fahrenheit"/>
+
+        <Label x:Name="errLabel" BackgroundColor="Red" TextColor="White" IsVisible="false" Text="Please enter a valid temperature"/>
+    </StackLayout>
+
+</ContentPage>

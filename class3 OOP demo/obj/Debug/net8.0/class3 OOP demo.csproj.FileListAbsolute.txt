@@ -1,0 +1,14 @@
+C:\Users\marco\Desktop\College\Year 3\Semester 3 (Summer)\MAP526\class3 OOP demo\bin\Debug\net8.0\class3 OOP demo.exe
+C:\Users\marco\Desktop\College\Year 3\Semester 3 (Summer)\MAP526\class3 OOP demo\bin\Debug\net8.0\class3 OOP demo.deps.json
+C:\Users\marco\Desktop\College\Year 3\Semester 3 (Summer)\MAP526\class3 OOP demo\bin\Debug\net8.0\class3 OOP demo.runtimeconfig.json
+C:\Users\marco\Desktop\College\Year 3\Semester 3 (Summer)\MAP526\class3 OOP demo\bin\Debug\net8.0\class3 OOP demo.dll
+C:\Users\marco\Desktop\College\Year 3\Semester 3 (Summer)\MAP526\class3 OOP demo\bin\Debug\net8.0\class3 OOP demo.pdb
+C:\Users\marco\Desktop\College\Year 3\Semester 3 (Summer)\MAP526\class3 OOP demo\obj\Debug\net8.0\class3 OOP demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Desktop\College\Year 3\Semester 3 (Summer)\MAP526\class3 OOP demo\obj\Debug\net8.0\class3 OOP demo.AssemblyInfoInputs.cache
+C:\Users\marco\Desktop\College\Year 3\Semester 3 (Summer)\MAP526\class3 OOP demo\obj\Debug\net8.0\class3 OOP demo.AssemblyInfo.cs
+C:\Users\marco\Desktop\College\Year 3\Semester 3 (Summer)\MAP526\class3 OOP demo\obj\Debug\net8.0\class3 OOP demo.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\College\Year 3\Semester 3 (Summer)\MAP526\class3 OOP demo\obj\Debug\net8.0\class3 OOP demo.dll
+C:\Users\marco\Desktop\College\Year 3\Semester 3 (Summer)\MAP526\class3 OOP demo\obj\Debug\net8.0\refint\class3 OOP demo.dll
+C:\Users\marco\Desktop\College\Year 3\Semester 3 (Summer)\MAP526\class3 OOP demo\obj\Debug\net8.0\class3 OOP demo.pdb
+C:\Users\marco\Desktop\College\Year 3\Semester 3 (Summer)\MAP526\class3 OOP demo\obj\Debug\net8.0\class3 OOP demo.genruntimeconfig.cache
+C:\Users\marco\Desktop\College\Year 3\Semester 3 (Summer)\MAP526\class3 OOP demo\obj\Debug\net8.0\ref\class3 OOP demo.dll

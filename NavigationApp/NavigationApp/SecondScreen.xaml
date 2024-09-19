@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="NavigationApp.SecondScreen"
+    xmlns:ios="clr-namespace:Xamarin.Forms.PlatformConfiguration.iOSSpecific;assembly=Xamarin.Forms.Core"
+    ios:Page.UseSafeArea="true"
+    Title="Second Page">
+
+    <StackLayout Spacing="20" Padding="16">
+        <Label Text="Welcome to Screen 2" FontSize="21" HorizontalTextAlignment="Center"/>
+        <Label x:Name="lblName" Text="Hi" FontSize="18" TextColor="{OnPlatform Android=Red, iOS=Blue}"/>
+        <!--<Button Text="Go back"/> -->
+    </StackLayout>
+</ContentPage>

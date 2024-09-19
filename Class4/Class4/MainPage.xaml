@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Class4.MainPage">
+
+    <!-- Stack Layout can display contents both vertically and horiozontally. But by default, it is show vertically. To change it, we add Orientation="horizontal" -->
+    
+    <StackLayout>
+        <Label Text="Apple"  FontSize="30" /> <!-- We can also use Background="red" to give it a background colour-->
+        <Label Text="Banana" FontSize="21" />
+        <Label Text="Carrot" />
+
+        <Label
+            Text="Grapes"
+            FontSize="30"
+            TextColor="#FF00FF"
+            BackgroundColor="GreenYellow"
+            HorizontalTextAlignment="Center"
+            Padding="30, 10, 30, 10"
+            />
+        
+        <!-- <Image Source="nier.jpg"/> This is one way to do it -->
+        <Image Source="nier.jpg"/>
+        
+        <!-- Using embedded images (Have to create a folder in the root of the project, called images (name doesn't really matter, but let's stick, with images)
+            When adding an image to the folder, right click and select the properties option and set build action to "Embedded resource". Path to the image is .foldername.filename 
+            <Image Source="{local:ImageResource Class4.images.nier.jpg}"/> Apparently works like this, but doesn't work correctly.
+            Also need this in the ContentPage tag
+            xmlns:local="clr-namespace:Class4"
+            x:Class="Class4.MainPage.images (other than the name of the project, you need to include the image folder in the x:Class
+        -->
+
+        <!-- Indepth image tutotial here https://learn.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/images -->
+        
+    </StackLayout>
+
+    <!-- Commonly Used UI elements are:
+        <Label/>
+        <Entry/> - is used to get text from the user
+        <Image/> - displays an image
+        <Switch/> - shows a on/off switch (toggle)
+        <Button/>
+        <Slider/> - shows a control that is used to select a value along a sliding scale
+        <RadioButton/> - Displays like radio buttons in Android, works like this <RadioButton Content="Red" GroupName="colors"/>
+        
+        Complete list of UI elements are here - https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/controls/views
+    -->
+    
+    <!-- Adding an image
+        1. Drag image into Android's Resources > Drawable folder. Then right click, select properties and set build action to "AndroidResources"
+        2. To support image on iOS platforms. We must double click on the iOS's Assets.xcassets folder. (On windows, it's hidden under the Asset Catalogs submenu as an option called Assests.
+           Also need Xcode for this to work, if you're on a Mac. Since it'll open it. Once Xcode is launched, drag and drop the image into Xcode project's Assests.xcassets folder.
+            Leave Xcode open, since visual studio has to synchronize with it.)
+    -->
+    
+    
+</ContentPage>

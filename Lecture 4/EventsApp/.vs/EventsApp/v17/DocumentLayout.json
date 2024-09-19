@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\Lecture 4\\EventsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B103E6DF-0296-440D-9DE8-D5F39DDFFA52}|EventsApp\\EventsApp.csproj|c:\\users\\marco\\desktop\\college\\year 3\\semester 3 (summer)\\map526\\lecture 4\\eventsapp\\eventsapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B103E6DF-0296-440D-9DE8-D5F39DDFFA52}|EventsApp\\EventsApp.csproj|solutionrelative:eventsapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B103E6DF-0296-440D-9DE8-D5F39DDFFA52}|EventsApp\\EventsApp.csproj|c:\\users\\marco\\desktop\\college\\year 3\\semester 3 (summer)\\map526\\lecture 4\\eventsapp\\eventsapp\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{B103E6DF-0296-440D-9DE8-D5F39DDFFA52}|EventsApp\\EventsApp.csproj|solutionrelative:eventsapp\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\Lecture 4\\EventsApp\\EventsApp\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "EventsApp\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\Lecture 4\\EventsApp\\EventsApp\\MainPage.xaml.cs",
+              "RelativeToolTip": "EventsApp\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:28:11.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\Lecture 4\\EventsApp\\EventsApp\\MainPage.xaml",
+              "RelativeDocumentMoniker": "EventsApp\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\Lecture 4\\EventsApp\\EventsApp\\MainPage.xaml",
+              "RelativeToolTip": "EventsApp\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-16T15:21:52.111Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

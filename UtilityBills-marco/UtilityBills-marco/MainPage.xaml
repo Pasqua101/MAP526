@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="UtilityBills_marco.MainPage"
+             xmlns:ios="clr-namespace:Xamarin.Forms.PlatformConfiguration.iOSSpecific;assembly=Xamarin.Forms.Core"
+             ios:Page.UseSafeArea="true">
+
+    <StackLayout Spacing="120">
+        <Label FontSize="40" HorizontalOptions="Center" Text="Utility Bill Calculator"/>
+
+        <StackLayout HorizontalOptions="Start" Margin="25">
+            
+            <Label FontSize="20" Text="Choose your province"/>
+
+            <Picker x:Name="provincePicker" Title="Select your province..." SelectedIndexChanged="provincePicker_SelectedIndexChanged"/>
+
+            <Label FontSize="20" Text="Daytime usage (kwh)"/>
+
+            <Entry x:Name="daytimeUsage" Placeholder="Enter the daytime usage" Keyboard="Numeric"/>
+
+            <Label FontSize="20" Text="Evening usage (kwh)" />
+
+            <Entry x:Name="eveningUsage" Placeholder="Enter the evening usage" Keyboard="Numeric"/>
+
+            <!-- Using OnPlatform to make sure that when  the app is running on Android the switch and label with be aligned horionzontally, while on iOS it's vertical -->
+            <StackLayout Orientation="{OnPlatform Android=Horizontal, iOS=Vertical}" > 
+                <Label FontSize="20" Text="Did you use a renewable energy source?"/>
+
+                <!-- Using OnPlatform to make sure tha the Switch is on the left side of the screen as shown in the assignment outline. As well as to make sure that no matter what the switch should be on at the end of the screen -->
+                <Switch x:Name="renewableUsed" HorizontalOptions="{OnPlatform iOS=Start, Android=End}"/> 
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                <Button Text="Calculate" Clicked="On_Calculate_Clicked"/>
+                <Button Text="Reset" Clicked="On_Reset_Clicked"/>
+            </StackLayout>
+
+            <StackLayout x:Name="chargesLayout" IsVisible="false" Orientation="Vertical">
+                <Label Text="Charge Breakdown" FontSize="25" HorizontalOptions="Center"/>
+                <Label x:Name="daytimeChargesLabel" Text="Daytime Usage Charges: " FontSize="18"/>
+                <Label x:Name="eveningChargesLabel" Text="Evening Usage Charges: " FontSize="18"/>
+                <Label x:Name="totalChargesLabel" Text="Total Charges: " FontSize="18"/>
+                <Label x:Name="taxLabel" Text="Sales Tax ()%: " FontSize="18"/> <!-- Each province has thier own tax percentage, that percenatge goes into the () -->
+                <Label x:Name="enviromentalRebateLabel" Text="Environmental Rebate: " FontSize="18"/>
+            </StackLayout>
+
+            <!--Also functions as a error label-->
+            <Label x:Name="resLabel" FontSize="20" HorizontalTextAlignment="Center"/>
+
+        </StackLayout>
+    
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EventsApp.MainPage">
+    
+    <!-- If this app has to run on iOS add in the tags found here https://learn.microsoft.com/en-us/dotnet/maui/ios/platform-specifics/page-safe-area-layout?view=net-maui-8.0 -->
+
+    <StackLayout>
+        <Label Text="Welcome to my app!" FontSize="24"/>
+        <Label Text="Try and press the button!" FontSize="21"/>
+
+
+        <Entry x:Name="txtName" Placeholder="Enter name" />
+        <Entry x:Name="txtAge" Placeholder="Enter age" Keyboard="Numeric" />
+        <Button Text="Click me!" Clicked="Button_Clicked"/> <!-- Clicked attribute makes an event handler in the MainPage.xaml.cs file based on the name entered -->
+
+        <Label x:Name="resultLabel" Text=""/>
+    </StackLayout>
+
+</ContentPage>

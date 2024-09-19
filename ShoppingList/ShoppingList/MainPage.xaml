@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ShoppingList.MainPage"
+             xmlns:ios="clr-namespace:Xamarin.Forms.PlatformConfiguration.iOSSpecific;assembly=Xamarin.Forms.Core"
+             ios:Page.UseSafeArea="true"
+             Title="Enter a Items For Your Shopping Cart">
+
+    <StackLayout>
+        <Entry x:Name="shoppingItemEntry" Placeholder="Please Enter a Shopping Cart Item"/>
+        
+        <StackLayout Orientation="Horizontal">
+            <Button x:Name="addToCartButton" Clicked="addToCartButton_Clicked" Text="Add To Cart"/>
+            <Button x:Name="summaryButton" Clicked="summaryButton_Clicked" Text="View Summary of Your Cart"/>
+        </StackLayout>
+        
+        <Label x:Name="errLabel" BackgroundColor="Red" TextColor="White" IsVisible="false" Text="Please make sure an item is entered for your shopping cart"/>
+    </StackLayout>
+
+</ContentPage>

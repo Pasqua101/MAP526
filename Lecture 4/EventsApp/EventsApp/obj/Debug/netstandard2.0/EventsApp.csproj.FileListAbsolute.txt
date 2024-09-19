@@ -1,0 +1,15 @@
+C:\Users\marco\Desktop\College\Year 3\Semester 3 (Summer)\MAP526\Lecture 4\EventsApp\EventsApp\bin\Debug\netstandard2.0\EventsApp.deps.json
+C:\Users\marco\Desktop\College\Year 3\Semester 3 (Summer)\MAP526\Lecture 4\EventsApp\EventsApp\bin\Debug\netstandard2.0\EventsApp.dll
+C:\Users\marco\Desktop\College\Year 3\Semester 3 (Summer)\MAP526\Lecture 4\EventsApp\EventsApp\bin\Debug\netstandard2.0\ref\EventsApp.dll
+C:\Users\marco\Desktop\College\Year 3\Semester 3 (Summer)\MAP526\Lecture 4\EventsApp\EventsApp\bin\Debug\netstandard2.0\EventsApp.pdb
+C:\Users\marco\Desktop\College\Year 3\Semester 3 (Summer)\MAP526\Lecture 4\EventsApp\EventsApp\obj\Debug\netstandard2.0\EventsApp.csproj.AssemblyReference.cache
+C:\Users\marco\Desktop\College\Year 3\Semester 3 (Summer)\MAP526\Lecture 4\EventsApp\EventsApp\obj\Debug\netstandard2.0\EventsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Desktop\College\Year 3\Semester 3 (Summer)\MAP526\Lecture 4\EventsApp\EventsApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\marco\Desktop\College\Year 3\Semester 3 (Summer)\MAP526\Lecture 4\EventsApp\EventsApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\marco\Desktop\College\Year 3\Semester 3 (Summer)\MAP526\Lecture 4\EventsApp\EventsApp\obj\Debug\netstandard2.0\EventsApp.AssemblyInfoInputs.cache
+C:\Users\marco\Desktop\College\Year 3\Semester 3 (Summer)\MAP526\Lecture 4\EventsApp\EventsApp\obj\Debug\netstandard2.0\EventsApp.AssemblyInfo.cs
+C:\Users\marco\Desktop\College\Year 3\Semester 3 (Summer)\MAP526\Lecture 4\EventsApp\EventsApp\obj\Debug\netstandard2.0\EventsApp.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\College\Year 3\Semester 3 (Summer)\MAP526\Lecture 4\EventsApp\EventsApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\marco\Desktop\College\Year 3\Semester 3 (Summer)\MAP526\Lecture 4\EventsApp\EventsApp\obj\Debug\netstandard2.0\EventsApp.dll
+C:\Users\marco\Desktop\College\Year 3\Semester 3 (Summer)\MAP526\Lecture 4\EventsApp\EventsApp\obj\Debug\netstandard2.0\refint\EventsApp.dll
+C:\Users\marco\Desktop\College\Year 3\Semester 3 (Summer)\MAP526\Lecture 4\EventsApp\EventsApp\obj\Debug\netstandard2.0\EventsApp.pdb

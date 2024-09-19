@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TempConverter.ScreenTwo"
+             xmlns:ios="clr-namespace:Xamarin.Forms.PlatformConfiguration.iOSSpecific;assembly=Xamarin.Forms.Core"
+             ios:Page.UseSafeArea="true"
+             Title="Results Page">
+    <ContentPage.Content>
+        <StackLayout>
+
+            <Label Text="Converted Temperature to Fahrenhiet Result" FontSize="Large"/>
+            <Label x:Name="fahrenhietResult" />
+
+            <Button x:Name="goBackButton" Text="Go Back" Clicked="goBackButton_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

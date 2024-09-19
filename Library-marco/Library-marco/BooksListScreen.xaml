@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Library_marco.BooksListScreen"
+             xmlns:ios="clr-namespace:Xamarin.Forms.PlatformConfiguration.iOSSpecific;assembly=Xamarin.Forms.Core"
+             ios:Page.UseSafeArea="true">
+    <ContentPage.Content>
+
+        <StackLayout>
+
+            <Label Text="Books List" FontSize="35" HorizontalOptions="Center"/>
+            <Label x:Name="welcomeLabel" FontSize="25" TextColor ="Blue" HorizontalOptions="Center"/>
+
+            <ListView x:Name="booksListView" ItemTapped="booksListView_ItemTapped">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <TextCell Text="{Binding title}" Detail="{Binding author}">
+                            <TextCell.ContextActions>
+                                <MenuItem Text="Checkout" Clicked="Checkout_Clicked" CommandParameter="{Binding .}"/>
+                                <MenuItem Text="Return" Clicked="Return_Clicked" CommandParameter="{Binding .}"/>
+                            </TextCell.ContextActions>
+                        </TextCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+            <Label x:Name="bookStatusLabel" BackgroundColor="Yellow" TextColor="Black" IsVisible="false"  FontSize="20" VerticalOptions="End"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

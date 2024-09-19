@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\Class4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{840D9274-86DB-4FED-A8FB-482BF36D0339}|Class4\\Class4.csproj|c:\\users\\marco\\desktop\\college\\year 3\\semester 3 (summer)\\map526\\class4\\class4\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{840D9274-86DB-4FED-A8FB-482BF36D0339}|Class4\\Class4.csproj|solutionrelative:class4\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\Class4\\Class4\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Class4\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\Class4\\Class4\\MainPage.xaml",
+              "RelativeToolTip": "Class4\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-16T14:09:19.412Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\NavigationApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F37D884-6103-48B9-B692-5F5D62A3CB20}|NavigationApp\\NavigationApp.csproj|c:\\users\\marco\\desktop\\college\\year 3\\semester 3 (summer)\\map526\\navigationapp\\navigationapp\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{3F37D884-6103-48B9-B692-5F5D62A3CB20}|NavigationApp\\NavigationApp.csproj|solutionrelative:navigationapp\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F37D884-6103-48B9-B692-5F5D62A3CB20}|NavigationApp\\NavigationApp.csproj|c:\\users\\marco\\desktop\\college\\year 3\\semester 3 (summer)\\map526\\navigationapp\\navigationapp\\secondscreen.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{3F37D884-6103-48B9-B692-5F5D62A3CB20}|NavigationApp\\NavigationApp.csproj|solutionrelative:navigationapp\\secondscreen.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F37D884-6103-48B9-B692-5F5D62A3CB20}|NavigationApp\\NavigationApp.csproj|c:\\users\\marco\\desktop\\college\\year 3\\semester 3 (summer)\\map526\\navigationapp\\navigationapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F37D884-6103-48B9-B692-5F5D62A3CB20}|NavigationApp\\NavigationApp.csproj|solutionrelative:navigationapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F37D884-6103-48B9-B692-5F5D62A3CB20}|NavigationApp\\NavigationApp.csproj|c:\\users\\marco\\desktop\\college\\year 3\\semester 3 (summer)\\map526\\navigationapp\\navigationapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F37D884-6103-48B9-B692-5F5D62A3CB20}|NavigationApp\\NavigationApp.csproj|solutionrelative:navigationapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F37D884-6103-48B9-B692-5F5D62A3CB20}|NavigationApp\\NavigationApp.csproj|c:\\users\\marco\\desktop\\college\\year 3\\semester 3 (summer)\\map526\\navigationapp\\navigationapp\\secondscreen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F37D884-6103-48B9-B692-5F5D62A3CB20}|NavigationApp\\NavigationApp.csproj|solutionrelative:navigationapp\\secondscreen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F37D884-6103-48B9-B692-5F5D62A3CB20}|NavigationApp\\NavigationApp.csproj|c:\\users\\marco\\desktop\\college\\year 3\\semester 3 (summer)\\map526\\navigationapp\\navigationapp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F37D884-6103-48B9-B692-5F5D62A3CB20}|NavigationApp\\NavigationApp.csproj|solutionrelative:navigationapp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\NavigationApp\\NavigationApp\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "NavigationApp\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\NavigationApp\\NavigationApp\\MainPage.xaml.cs",
+              "RelativeToolTip": "NavigationApp\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAEwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T17:41:45.428Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\NavigationApp\\NavigationApp\\MainPage.xaml",
+              "RelativeDocumentMoniker": "NavigationApp\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\NavigationApp\\NavigationApp\\MainPage.xaml",
+              "RelativeToolTip": "NavigationApp\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-28T17:41:43.852Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\NavigationApp\\NavigationApp\\Person.cs",
+              "RelativeDocumentMoniker": "NavigationApp\\Person.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\NavigationApp\\NavigationApp\\Person.cs",
+              "RelativeToolTip": "NavigationApp\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T18:15:20.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SecondScreen.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\NavigationApp\\NavigationApp\\SecondScreen.xaml.cs",
+              "RelativeDocumentMoniker": "NavigationApp\\SecondScreen.xaml.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\NavigationApp\\NavigationApp\\SecondScreen.xaml.cs",
+              "RelativeToolTip": "NavigationApp\\SecondScreen.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T17:48:38.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\NavigationApp\\NavigationApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "NavigationApp\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\NavigationApp\\NavigationApp\\App.xaml.cs",
+              "RelativeToolTip": "NavigationApp\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T17:51:46.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SecondScreen.xaml",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\NavigationApp\\NavigationApp\\SecondScreen.xaml",
+              "RelativeDocumentMoniker": "NavigationApp\\SecondScreen.xaml",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\College\\Year 3\\Semester 3 (Summer)\\MAP526\\NavigationApp\\NavigationApp\\SecondScreen.xaml",
+              "RelativeToolTip": "NavigationApp\\SecondScreen.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-28T17:48:29.123Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

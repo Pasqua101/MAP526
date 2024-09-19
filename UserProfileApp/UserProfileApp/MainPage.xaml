@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="UserProfileApp.MainPage"
+             xmlns:ios="clr-namespace:Xamarin.Forms.PlatformConfiguration.iOSSpecific;assembly=Xamarin.Forms.Core"
+             ios:Page.UseSafeArea="true">
+
+    <StackLayout>
+
+        <Label Text="Please Enter Your Name:"/>
+        <Entry Placeholder="John Smith" x:Name="nameEntry"/>
+
+        <Label Text="Please Enter Your Email:"/>
+        <Entry Placeholder="john.smith@gmail.com" x:Name="emailEntry"/>
+
+        <Label Text="Please Provide a URL of Your Profile Picture"/>
+        <Entry Placeholder="www.example.com" x:Name="pfpEntry"/>
+
+        <Button Text="View Profile" x:Name="profileButton" Clicked="profileButton_Clicked"/>
+
+        <Label x:Name="errLabel" Text="Please Make Sure All Fields Are Filled" BackgroundColor="Red" TextColor="White" IsVisible="false"/>
+
+    </StackLayout>
+
+</ContentPage>

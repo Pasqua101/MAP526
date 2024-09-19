@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CounterApp.MainPage">
+
+    <StackLayout Orientation="Vertical" Spacing="20" Padding="16">
+
+        <Label Text="Counting App" FontSize="30" HorizontalTextAlignment="Center"/>
+        <Label x:Name="lblCount" Text="99" FontSize="50" HorizontalTextAlignment="Center" TextColor="Red" Margin="0, 50, 0, 0"/>
+
+        <StackLayout Orientation="Horizontal">
+
+            <Button Text="Count up!" HorizontalOptions="FillAndExpand" Clicked="BtnCountUp_Clicked"/> <!-- Using FillAndExpand on both buttons will make them equally share space-->
+            <Button Text="Count down!" HorizontalOptions="FillAndExpand" Clicked="BtnCountDown_Clicked"/>
+
+        </StackLayout>
+
+        <Entry x:Name="count" Placeholder="Enter Initial Value" Keyboard="Numeric" />
+        <Button Text="Set Initial Value" Clicked="BtnInitialVal_Clicked"/>
+
+        <Label x:Name="lblError" TextColor="DarkRed" Margin="0, 40, 0, 0"/>
+
+    </StackLayout>
+
+</ContentPage>
